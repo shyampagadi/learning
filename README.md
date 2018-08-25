@@ -1,0 +1,2 @@
+# learning
+Google Colab Setting
